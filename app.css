@@ -1,0 +1,43 @@
+html {
+  font-family: sans-serif;
+}
+#map {
+  height: 400px;
+  width: 100%;
+  height: 20rem;
+  border: 2px solid #ccc;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  margin: 3rem auto;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  width: 9rem;
+  height: 3rem;
+  background-color: #6c6ce4;
+  border: #6c6ce4;
+  border: 1px solid white;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  margin: 20px;
+}
+
+button:hover {
+  background-color: #5d5dd1;
+}
+
+#address {
+  width: 20rem;
+  height: 2.7rem;
+  margin: 20px;
+}
